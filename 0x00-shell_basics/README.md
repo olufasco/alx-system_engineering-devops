@@ -1,1 +1,2 @@
-Today readme
+#!/bin/bash
+pwd
